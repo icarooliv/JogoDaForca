@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1469929609 source:c:\users\Ícaro oliveira\desktop\projeto2\jogodaforca\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
