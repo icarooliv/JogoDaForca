@@ -13,7 +13,6 @@ char banco [quant_palavras][30]={
 "computador",
 "cadeira",
 "automovel",
-"edificio",
 };
 
 char palavra_sort [30];
